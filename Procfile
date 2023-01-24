@@ -1,0 +1,1 @@
+web: gunicorn cozy_be.wsgi --log-file -
